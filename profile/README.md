@@ -1,16 +1,23 @@
 # M3LDEV
 
-Software studio building business management SaaS products for New Caledonia and the Pacific.
+Studio logiciel spécialisé dans la création de solutions SaaS de gestion pour la Nouvelle-Calédonie et le Pacifique.
 
-## Products
+## Produits
 
-- **MEKANO** — Workshop management SaaS for automotive garages.
-- **PACIFIKA** — Future SaaS portal and ecosystem.
-- **BOUTIKO** — Future retail and shop management SaaS.
-- **PLANTO** — Future maintenance and field service SaaS.
+### MEKANO
+Solution SaaS de gestion d'atelier automobile.
 
-## Current focus
+### PACIFIKA
+Portail regroupant l'écosystème logiciel M3LDEV.
 
-MEKANO is the active production project.
+### BOUTIKO
+Future solution SaaS de gestion de commerce et de point de vente.
 
-Current objective: onboard the first paying garages in New Caledonia with a reliable, secure and compliant SaaS platform.
+### PLANTO
+Future solution SaaS dédiée aux activités de maintenance et de services terrain.
+
+## Priorité actuelle
+
+MEKANO est le projet principal actuellement en développement.
+
+L'objectif est de proposer une solution fiable, sécurisée et adaptée aux garages de Nouvelle-Calédonie avant l'ouverture à d'autres secteurs d'activité.
